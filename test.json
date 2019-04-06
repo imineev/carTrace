@@ -1,0 +1,42 @@
+{
+  "returnCode": "Success",
+  "result": {
+    "payload": [
+      {
+        "TxId": "9d0489543542e2ef53cc155dbdb5231d5770640b15afc0b236a3089f2ed0835c",
+        "Value": {
+          "docType": "vehicle",
+          "chassisNumber": "porsche1000001",
+          "manufacturer": "porsche",
+          "model": "c class",
+          "assemblyDate": 1541542934,
+          "airbagSerialNumber": "ser1234",
+          "owner": "detroit-autos",
+          "recall": false,
+          "recallDate": 1541542934
+        },
+        "Timestamp": "2018-11-06 22:37:36.205 +0000 UTC",
+        "IsDelete": "false"
+      },
+      {
+        "TxId": "073c500739cc14b806867ac8eab3a75b904dc149a0965f99c48474ff91b800ee",
+        "Value": {
+          "docType": "vehicle",
+          "chassisNumber": "porsche1000001",
+          "manufacturer": "porsche",
+          "model": "c class",
+          "assemblyDate": 1541542934,
+          "airbagSerialNumber": "ser1234",
+          "owner": "johns-dealership",
+          "recall": false,
+          "recallDate": 1541542934
+        },
+        "Timestamp": "2018-11-06 22:43:38.548 +0000 UTC",
+        "IsDelete": "false"
+      }
+    ],
+    "encode": "UTF-8"
+  },
+  "txid": "5409c942d8c7c46466d7693dcdab2313c98e220dc781fbff77c3abac645ef319"
+}
+
